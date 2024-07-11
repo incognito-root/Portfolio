@@ -30,7 +30,7 @@ const Hero = () => {
     <div className='flex justify-center relative my-20 z-10'>
       <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'>
         <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>
-          Dynamic Web Magic with Next Js
+          Dynamic Web Magic with latest tech.
         </h2>
 
         <TextGenerateEffect
@@ -39,7 +39,7 @@ const Hero = () => {
         />
         <p> <br /></p>
         <p className='text-center md:tracking-wider mg-4 text-sm md:text-lg lg:text-2xl'>
-        Hi, I&apos;m Saad, a Next.js Developer based in Pakistan.
+        Hi, I&apos;m Saad, a Front-End and UI UX Designer based in Pakistan.
         </p>
         <p> <br /></p>
         <a href="#projects">
